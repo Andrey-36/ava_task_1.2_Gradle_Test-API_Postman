@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f8allja8yg2w85rg?svg=true)](https://ci.appveyor.com/project/Andrey-36/java-task-1-2-gradle-test-api)
+[![Build status](https://ci.appveyor.com/api/projects/status/vbnl3daa2ulsa92q?svg=true)](https://ci.appveyor.com/project/Andrey-36/ava-task-1-2-gradle-test-api-postman)
